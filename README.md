@@ -1,12 +1,12 @@
 # SmackChat
 一个基于Smack、Openfire开发的即时通讯应用
-###博客介绍
+### 博客介绍
  1. [基于Openfire Smack开发即时通讯应用、搭建Openfire服务器(一)](http://blog.csdn.net/a_zhon/article/details/60871706)
  2. [ 基于Openfire Smack开发即时通讯应用、Spark安装，注册，登录，退出登录(二)](http://blog.csdn.net/a_zhon/article/details/61193630)
  3. [基于Openfire Smack开发即时通讯应用、获取离线消息，发送消息，联系人列表，添加好友(三)](http://blog.csdn.net/a_zhon/article/details/62037514)
  4. [基于Openfire Smack开发即时通讯应用、获取所有群组、加入群聊、创建群组(四)](http://blog.csdn.net/a_zhon/article/details/64919875)
 
-###效果图
+### 效果图
 
 <img src="http://img.blog.csdn.net/20170322175916442?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYV96aG9u/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width ="400" height="700"/><font>&nbsp;</font>
 <img src="http://img.blog.csdn.net/20170322175840207?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYV96aG9u/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width ="400" height="700"/>
