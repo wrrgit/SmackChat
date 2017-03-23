@@ -26,7 +26,7 @@
             android:layout_height="match_parent"
             android:hint="QQ号/手机号/邮箱"
             android:paddingLeft="10dp"
-            android:text="sign2" />
+            android:text="azhon" />
     </android.support.design.widget.TextInputLayout>
 
     <android.support.design.widget.TextInputLayout
