@@ -53,7 +53,7 @@ import java.util.Map;
 public class ConnectionService extends Service {
 
     public static final String SERVER_NAME = "izqhrnmkjn55syz";//主机名
-    public static final String SERVER_IP = "106.14.20.176";//ip
+    public static final String SERVER_IP = "192.168.0.253";//ip
     public static final int PORT = 5222;//端口
     private XMPPTCPConnection connection;
     private DbHelper dbHelper;
